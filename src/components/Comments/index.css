@@ -1,0 +1,76 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+.total {
+  padding: 100px;
+}
+.bg {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  font-family: 'Roboto';
+}
+.head {
+  font-size: 47px;
+}
+.card {
+  margin-right: 150px;
+  display: flex;
+  flex-direction: column;
+}
+.ipt-1 {
+  height: 150px;
+  width: 300px;
+  border-radius: 3px;
+  padding-left: 20px;
+  font-family: 'Roboto';
+  font-size: 17px;
+  padding-top: 10px;
+  margin-bottom: 20px;
+  outline: none;
+}
+.ipt {
+  font-size: 15px;
+  height: 40px;
+  padding-left: 20px;
+  width: 300px;
+  border-radius: 3px;
+  border-width: 1px;
+  border-color: #cbd2d9;
+  margin-bottom: 20px;
+  outline: none;
+}
+.para {
+  color: #475569;
+  font-weight: bold;
+}
+.btn {
+  background-color: #0284c7;
+  color: white;
+  height: 35px;
+  width: 150px;
+  border-radius: 5px;
+
+  border-width: 0px;
+}
+.line {
+  height: 3px;
+  background-color: #dee0e3;
+  border-width: 0px;
+  margin-top: 25px;
+}
+.spcl {
+  background-color: #0284c7;
+  color: white;
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 3px;
+  border-radius: 3px;
+  padding-bottom: 3px;
+}
+
+.lists {
+  list-style-type: none;
+}

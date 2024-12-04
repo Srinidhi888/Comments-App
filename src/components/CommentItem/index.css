@@ -1,0 +1,66 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.cmt {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+}
+.item {
+  border-radius: 35px;
+  padding-left: 13px;
+  padding-right: 10px;
+  padding-top: 7px;
+
+  margin-right: 10px;
+  color: white;
+  padding-bottom: 7px;
+}
+.line {
+  height: 3px;
+  background-color: #dee0e3;
+  border-width: 0px;
+  margin-top: 25px;
+}
+.dt {
+  padding-left: 16px;
+}
+.lk {
+  display: flex;
+  justify-content: space-between;
+}
+.bt {
+  background-color: transparent;
+  border-width: 0px;
+  height: 20px;
+}
+.par {
+  color: #0b69ff;
+}
